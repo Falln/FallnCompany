@@ -1,6 +1,6 @@
 {
     "name": "Limbus_Company_Base",
-    "version_number": "1.1.1",
+    "version_number": "1.1.2",
     "website_url": "https://github.com/Falln/FallnCompany",
     "description": "Base modpack for friends that mostly includes QoL changes or cosmetic changes for an \"improved vanilla\" expierence. And yes, the name is a reference bc my associate is addicted to that game too lol",
     "dependencies": [
