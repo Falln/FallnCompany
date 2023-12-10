@@ -1,5 +1,10 @@
+## v1.1.1
+> Removed the custom LethalPaintings
+
 ## v1.1.0
-> Added More Emotes
+> Added More Emotes & suits & custom paintings\
+> Added EliteMasterEric's Coroner (better death info)\
+> Added Spectate Enemies
 
 ## v1.0.2
 > Fixed issue with Limbus skin (hopefully)
