@@ -1,18 +1,9 @@
 {
-    "name": "Limbus_Company_Base",
+    "name": "Limbus_Company_Extra",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Falln/FallnCompany",
     "description": "Base modpack for friends that mostly includes QoL changes and things like MoreCompany. And yes, the name is a reference bc my friend is addicted to that game too lol",
     "dependencies": [
-        "notnotnotswipez-MoreCompany-1.7.1",
-        "Renegades-FlashlightToggle-1.3.1",
-        "RickArg-Helmet_Cameras-2.1.3",
-        "anormaltwig-LateCompany-1.0.4",
-        "BepInEx-BepInExPack-5.4.2100",
-        "Pooble-LCBetterSaves-1.4.0",
-        "Drakorle-MoreItems-1.0.1",
-        "x753-More_Suits-1.3.3",
-        "tinyhoot-ShipLoot-1.0.0",
-        "5Bit-VoiceHUD-1.0.4"
+        "Falln-Limbus_Company_Base-1.0.0"
     ]
 }
