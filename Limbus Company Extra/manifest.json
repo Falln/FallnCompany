@@ -1,6 +1,6 @@
 {
     "name": "Limbus_Company_Extra",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://github.com/Falln/FallnCompany",
     "description": "Full for-fun modpack with a ton of mods. Not necessarily aimed at increasing the difficulty of the game",
     "dependencies": [
@@ -18,7 +18,7 @@
         "Sv_Matt-HideModList-1.0.1",
         "SteamBlizzard-Tyler1Bracken-1.0.1",
         "BlueAmulet-LCBetterClock-1.0.3",
-        "togglemybits-Strange_Objects-1.2.1", 
+        "togglemybits-Strange_Objects-1.1.6", 
         "sunnobunno-YippeeMod-1.2.2",
         "Steven-Custom_Boombox_Music-1.4.0",
         "malco-Lategame_Upgrades-2.5.1",
@@ -28,13 +28,11 @@
         "phawitpp-SuperLandmine-1.1.1", 
         "Team_Waluigi-WaluigiSuit-0.0.2", 
         "matsuura-HealthMetrics-1.0.2",
-        "femboytv-DeepRockPosters-1.2.1",
         "ATK-UnlimitedTZP-0.9.0",
-        "e3s1-BetterLadders-1.2.2", 
         "SirTyler-BetterTeleporter-1.1.1",
         "oknorton-LethalCompanyBetterScaling-1.4.0",
         "yeahimliam-Peter_Griffin_Suit-1.0.1",
-        "darmuh-darmuhsTerminalStuff-1.2.1",
+        "darmuh-darmuhsTerminalStuff-2.0.1",
         "Asylud-Glowstick-1.0.2",
         "NiceHairs-Symbiosis-1.0.2",
         "ENZ-Lock_Doors_Mod-1.1.0",
@@ -47,6 +45,7 @@
         "Greyull-LethalPing-1.2.1",
         "Flof-MemeSoundboard-1.1.2",
         "HomelessGinger-MaskedEnemyOverhaul-2.0.1",
-        "sfDesat-Orion-0.4.1"
+        "sfDesat-Orion-0.5.0",
+        "e3s1-BetterLadders-1.2.2"
     ]
 }
