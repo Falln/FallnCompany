@@ -1,3 +1,8 @@
+## v1.2.0
+> Mod updates/
+> Added new moons! If you don't like them as a vanilla experience, just don't go :)/
+> Added TooManyEmotes
+
 ## v1.1.3
 > Update mod versions and added Ryokune's CompatibilityChecker
 
