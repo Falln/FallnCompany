@@ -1,3 +1,6 @@
+## 2.0.0
+> Massive mod update and overhaul (since it's been a bit)
+
 ## v1.1.2
 > Mod updates and removed some troublesome mods
 
