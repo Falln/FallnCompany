@@ -1,5 +1,5 @@
 ## v1.2.1
-> Added some more mmons\
+> Added some more moons\
 > Fixed some mod compatibility issues
 
 ## v1.2.0
